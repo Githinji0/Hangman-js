@@ -1,4 +1,5 @@
 const hangmanBox = document.querySelectorAll("hangman-character-box");
+console.log(hangmanBox);
 const maxWrongAttempts = 6;
 const numberOfTries = 0;
 const words = [
